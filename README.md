@@ -21,12 +21,11 @@ provided, the program opens `overlay.txt` from its own directory.
 
 - **F1** — go back one line
 - **F2** — complete the current line and move forward
-- **F3** — reload the current text file
-- **F4** — exit
+- **F3** — exit
 
 F1 and F2 support normal Windows held-key repeat. Completed lines become much
-more transparent. The notification-area icon can open the text file, reset
-progress, or exit the program.
+more transparent. Text files reload automatically when saved. The
+notification-area icon can open the text file, reset progress, or exit.
 
 ## Colored build items
 

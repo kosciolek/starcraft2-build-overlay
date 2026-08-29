@@ -35,7 +35,7 @@ namespace TextOverlay
                     : Path.Combine(baseFolder, "overlay.txt");
 
                 if (!File.Exists(textPath))
-                    File.WriteAllText(textPath, "Edit overlay.txt and save it.\r\nF1: go back one line\r\nF2: complete current line\r\nF3: reload the text file\r\nF4: exit", Encoding.UTF8);
+                    File.WriteAllText(textPath, "Edit overlay.txt and save it.\r\nF1: go back one line\r\nF2: complete current line\r\nF3: exit", Encoding.UTF8);
 
                 Application.Run(new OverlayForm(textPath));
                 GC.KeepAlive(mutex);
@@ -48,12 +48,10 @@ namespace TextOverlay
         private const int WM_HOTKEY = 0x0312;
         private const int HOTKEY_BACK = 1;
         private const int HOTKEY_FORWARD = 2;
-        private const int HOTKEY_RELOAD = 3;
-        private const int HOTKEY_EXIT = 4;
+        private const int HOTKEY_EXIT = 3;
         private const uint VK_F1 = 0x70;
         private const uint VK_F2 = 0x71;
         private const uint VK_F3 = 0x72;
-        private const uint VK_F4 = 0x73;
         private const int WS_EX_LAYERED = 0x00080000;
         private const int WS_EX_TRANSPARENT = 0x00000020;
         private const int WS_EX_TOOLWINDOW = 0x00000080;
@@ -86,7 +84,7 @@ namespace TextOverlay
             trayIcon = new NotifyIcon
             {
                 Icon = SystemIcons.Information,
-                Text = "Text Overlay — F1 back, F2 forward, F3 reload, F4 exit",
+                Text = "Text Overlay — F1 back, F2 forward, F3 exit",
                 ContextMenuStrip = menu,
                 Visible = true
             };
@@ -109,9 +107,8 @@ namespace TextOverlay
             {
                 bool backRegistered = RegisterHotKey(Handle, HOTKEY_BACK, 0, VK_F1);
                 bool forwardRegistered = RegisterHotKey(Handle, HOTKEY_FORWARD, 0, VK_F2);
-                bool reloadRegistered = RegisterHotKey(Handle, HOTKEY_RELOAD, 0, VK_F3);
-                bool exitRegistered = RegisterHotKey(Handle, HOTKEY_EXIT, 0, VK_F4);
-                if (!backRegistered || !forwardRegistered || !reloadRegistered || !exitRegistered)
+                bool exitRegistered = RegisterHotKey(Handle, HOTKEY_EXIT, 0, VK_F3);
+                if (!backRegistered || !forwardRegistered || !exitRegistered)
                 {
                     trayIcon.ShowBalloonTip(5000, "Text Overlay",
                         "One or more overlay hotkeys are reserved by another program.", ToolTipIcon.Warning);
@@ -149,10 +146,6 @@ namespace TextOverlay
                     completedCount--;
                     RenderOverlay();
                 }
-                else if (id == HOTKEY_RELOAD)
-                {
-                    LoadText();
-                }
                 else if (id == HOTKEY_EXIT)
                 {
                     Close();
@@ -166,7 +159,6 @@ namespace TextOverlay
         {
             UnregisterHotKey(Handle, HOTKEY_BACK);
             UnregisterHotKey(Handle, HOTKEY_FORWARD);
-            UnregisterHotKey(Handle, HOTKEY_RELOAD);
             UnregisterHotKey(Handle, HOTKEY_EXIT);
             topmostTimer.Stop();
             reloadTimer.Stop();
