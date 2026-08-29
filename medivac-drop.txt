@@ -1,5 +1,33 @@
-13  0:17 **Supply Depot**  Built it at your ramp with you first SCV produced
-15  0:40 **Barracks**  Build Reaper into Marine then Reactor, use builder to scout
+**2**x **SCV**
+13  0:17 1st SCV buduje **Supply** na rampie
+15  0:40 SCV z Supply robi **Raxy**
+15  0:43 Inne SCV robi **Refinery**
+18  1:05 **Saturacja** Refinery
+19  1:17 Ustawiam **SCV na expo**
+20  1:31 **Orbital**
+20  1:32 **Reaper**
+20  1:40 **Expo**
+20  1:51 2nd **Raxy**
+21  2:00 **MULE**
+21  2:02 2nd **Supply**
+21  2:07 **Marine**
+23  2:17 2nd **Refinery**
+23  2:25 **Factory**
+23  2:28 **Reactor** 1st Barracks
+23  2:40 Saturate **Refinery**
+25  2:49 **Labs** on 2nd Barracks
+25  2:57 **Orbital** on expo
+28  3:06 2x **Marine**
+33  3:21 **Starport**
+34  3:28 **MULE** expo
+34  3:29 **Labs**
+38  3:51 **Supply**
+40  4:00 **Swap** Factory Starport
+40  4:15 2x **Medivac**
+51  4:25 **Supply**
+
+
+
 15  0:43 **Refinery**  Saturate it right away
 19  1:27 **Orbital Command, Reaper**  When finish resume SCV production and constantly drop MULEs, Scout
 20  1:39 **Command Center**  Turn it into Orbital Command right away

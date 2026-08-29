@@ -1,4 +1,5 @@
 This is the first line.
 Press F2 to mark it complete and move forward.
 Press F1 to move back one line.
+Press F3 to reload the text file and F4 to exit.
 Edit this file and save it; the overlay updates automatically.
