@@ -19,11 +19,11 @@ provided, the program opens `overlay.txt` from its own directory.
 
 ## Controls
 
-- **F1** — go back one line
-- **F2** — complete the current line and move forward
-- **F3** — exit
+- **F3** — complete the current line and move forward
+- **F4** — roll back one line
+- **F5** — quit
 
-F1 and F2 support normal Windows held-key repeat. Completed lines become much
+F3 and F4 support normal Windows held-key repeat. Completed lines become much
 more transparent. Text files reload automatically when saved. The
 notification-area icon can open the text file, reset progress, or exit.
 Trailing whitespace on every loaded line is ignored.

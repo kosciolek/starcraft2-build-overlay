@@ -1,5 +1,5 @@
 This is the first line.
-Press F2 to mark it complete and move forward.
-Press F1 to move back one line.
-Press F3 to exit.
+Press F3 to mark it complete and move forward.
+Press F4 to roll back one line.
+Press F5 to quit.
 Edit this file and save it; the overlay updates automatically.

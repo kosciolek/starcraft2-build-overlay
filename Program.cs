@@ -35,7 +35,7 @@ namespace TextOverlay
                     : Path.Combine(baseFolder, "overlay.txt");
 
                 if (!File.Exists(textPath))
-                    File.WriteAllText(textPath, "Edit overlay.txt and save it.\r\nF1: go back one line\r\nF2: complete current line\r\nF3: exit", Encoding.UTF8);
+                    File.WriteAllText(textPath, "Edit overlay.txt and save it.\r\nF3: complete current line\r\nF4: go back one line\r\nF5: exit", Encoding.UTF8);
 
                 Application.Run(new OverlayForm(textPath));
                 GC.KeepAlive(mutex);
@@ -49,9 +49,9 @@ namespace TextOverlay
         private const int HOTKEY_BACK = 1;
         private const int HOTKEY_FORWARD = 2;
         private const int HOTKEY_EXIT = 3;
-        private const uint VK_F1 = 0x70;
-        private const uint VK_F2 = 0x71;
         private const uint VK_F3 = 0x72;
+        private const uint VK_F4 = 0x73;
+        private const uint VK_F5 = 0x74;
         private const int WS_EX_LAYERED = 0x00080000;
         private const int WS_EX_TRANSPARENT = 0x00000020;
         private const int WS_EX_TOOLWINDOW = 0x00000080;
@@ -84,7 +84,7 @@ namespace TextOverlay
             trayIcon = new NotifyIcon
             {
                 Icon = SystemIcons.Information,
-                Text = "Text Overlay — F1 back, F2 forward, F3 exit",
+                Text = "Text Overlay — F3 next, F4 rollback, F5 quit",
                 ContextMenuStrip = menu,
                 Visible = true
             };
@@ -105,9 +105,9 @@ namespace TextOverlay
 
             Load += delegate
             {
-                bool backRegistered = RegisterHotKey(Handle, HOTKEY_BACK, 0, VK_F1);
-                bool forwardRegistered = RegisterHotKey(Handle, HOTKEY_FORWARD, 0, VK_F2);
-                bool exitRegistered = RegisterHotKey(Handle, HOTKEY_EXIT, 0, VK_F3);
+                bool backRegistered = RegisterHotKey(Handle, HOTKEY_BACK, 0, VK_F4);
+                bool forwardRegistered = RegisterHotKey(Handle, HOTKEY_FORWARD, 0, VK_F3);
+                bool exitRegistered = RegisterHotKey(Handle, HOTKEY_EXIT, 0, VK_F5);
                 if (!backRegistered || !forwardRegistered || !exitRegistered)
                 {
                     trayIcon.ShowBalloonTip(5000, "Text Overlay",
