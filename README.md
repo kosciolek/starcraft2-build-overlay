@@ -26,6 +26,7 @@ provided, the program opens `overlay.txt` from its own directory.
 F1 and F2 support normal Windows held-key repeat. Completed lines become much
 more transparent. Text files reload automatically when saved. The
 notification-area icon can open the text file, reset progress, or exit.
+Trailing whitespace on every loaded line is ignored.
 
 ## Colored build items
 

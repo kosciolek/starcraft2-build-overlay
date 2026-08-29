@@ -18,32 +18,16 @@
 25  2:49 **Labs** on 2nd Barracks
 25  2:57 **Orbital** on expo
 28  3:06 2x **Marine**
+30  3:10 **Stimpack**
 33  3:21 **Starport**
 34  3:28 **MULE** expo
 34  3:29 **Labs**
 38  3:51 **Supply**
 40  4:00 **Swap** Factory Starport
 40  4:15 2x **Medivac**
-51  4:25 **Supply**
+51  4:25 **Supply**, build wall
 
-
-
-15  0:43 **Refinery**  Saturate it right away
-19  1:27 **Orbital Command, Reaper**  When finish resume SCV production and constantly drop MULEs, Scout
-20  1:39 **Command Center**  Turn it into Orbital Command right away
-20  1:53 **Barracks**  Build a Tech Lab
-21  2:01 **Barracks Reactor**  Start Marine production
-21  2:04 **Supply Depot**  Finish your wall
-22  2:16 **Refinery**  Saturate it right away
-23  2:28 **Factory**  Build a Reactor then swap for Starport
-24  2:50 **Orbital Command**  When finish resume SCV production and constantly drop MULEs
-28  3:00 **Stimpack**  Research Combat Shields after
-31  3:18 **Starport**  Swap with your Factory
-34  3:26 **Factory Reactor**  Swap with your Starport
-38  3:42 **Supply Depot**  Start walling your Natural
-45  4:04 **Medivac x2**  After finishing these 2 Medivacs swap it again with the Factory to produce 2 Hellions at the time
-49  4:06 **Supply Depot x3**  Continue building your wall
-60  4:48 **Command Center**  Turn it into Orbital Command right away
-62  4:58 **Armory**  Needed to morph into Hellbats
+60  4:48 **CC**
+62  4:58 **Armory**
 65  5:06 **Hellion x6**  Build a total of 6 Hellions and then swap it again with the Starport to produce 2 Medivacs at the time
 65  5:09 **Liberator**  Send it to harass Mineral Line, build a Medivac after, and then swap for the Factory Reactor

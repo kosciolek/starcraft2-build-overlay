@@ -186,7 +186,8 @@ namespace TextOverlay
             {
                 string content = File.ReadAllText(textPath, Encoding.UTF8).Replace("\r\n", "\n").Replace('\r', '\n');
                 lines.Clear();
-                lines.AddRange(content.Split(new[] { '\n' }, StringSplitOptions.None));
+                foreach (string loadedLine in content.Split(new[] { '\n' }, StringSplitOptions.None))
+                    lines.Add(loadedLine.TrimEnd());
                 while (lines.Count > 0 && lines[lines.Count - 1].Length == 0)
                     lines.RemoveAt(lines.Count - 1);
                 completedCount = Math.Min(completedCount, lines.Count);
