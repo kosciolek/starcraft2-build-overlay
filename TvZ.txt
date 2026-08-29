@@ -1,0 +1,33 @@
+11  0:31  **Supply Depot**
+13  0:54  **Barracks**
+13  1:01  **Refinery**
+16  1:42  **Orbital Command**
+16  1:44  **Reaper**
+18  2:13  **Command Center**
+18  2:16  **Marine**
+20  2:27  **Supply Depot**
+22  2:52  **Factory**
+22  3:00  **Barracks Reactor**
+22  3:12  **Command Center**
+25  3:48  **Orbital Command**
+26  3:55  **Barracks Tech Lab**
+26  3:57  **Barracks**, **Hellion** x2
+31  4:14  **Stimpack**, **Marine**
+34  4:18  **Hellion** x2
+38  4:26  **Orbital Command**
+40  4:32  **Marine**
+40  4:38  **Supply Depot**
+42  4:45  **Starport**
+43  4:48  **Factory Reactor**
+43  4:50  **Refinery**
+46  4:53  **Marine** x3
+49  5:02  **Supply Depot**
+52  5:10  **Marine** x2
+55  5:19  **Marine**, **Refinery** x2
+58  5:24  **Orbital Command**
+60  5:28  **Marine** x2
+60  5:29  **Supply Depot**
+62  5:40  **Medivac** x2
+64  5:51  **Engineering Bay**
+68  5:57  **Engineering Bay**, **Factory Tech Lab**
+68  6:01  **Combat Shield**
