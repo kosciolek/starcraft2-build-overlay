@@ -1,0 +1,105 @@
+  10	  0:28	  Supply Depot	  
+  13	  0:55	  Barracks	  
+  14	  1:14	  Refinery	  
+  16	  1:41	  Marine	  
+  16	  1:42	  Orbital Command	  
+  17	  2:00	  Reaper	  
+  19	  2:10	  Command Center	  
+  19	  2:19	  Supply Depot	  
+  21	  2:38	  Factory	  
+  21	  2:44	  Refinery	  
+  21	  2:49	  Bunker	  
+  22	  2:55	  Barracks Reactor	  
+  23	  3:22	  Hellion	  
+  23	  3:24	  Orbital Command	  
+  28	  3:36	  Starport	  
+  27	  3:43	  Widow Mine	  
+  27	  3:46	  Marine x2	  
+  34	  4:07	  Widow Mine, Marine x2, Supply Depot	  
+  39	  4:14	  Medivac	  
+  40	  4:29	  Marine x2	  
+  40	  4:30	  Factory Tech Lab	  
+  40	  4:44	  Viking	  
+  44	  4:46	  Supply Depot	  
+  44	  4:51	  Cyclone	  
+  48	  4:58	  Marine	  
+  50	  5:02	  Supply Depot	  
+  50	  5:07	  Marine	  
+  50	  5:10	  Barracks	  
+  53	  5:14	  Liberator	  
+  58	  5:22	  Marine	  
+  57	  5:30	  Siege Tank	  
+  57	  5:35	  Barracks	  
+  66	  5:52	  Engineering Bay	  
+  66	  5:56	  Refinery	  
+  65	  6:24	  Barracks Tech Lab	  
+  65	  6:25	  Terran Infantry Weapons Level 1	  
+  67	  6:30	  Stimpack	  
+  67	  6:31	  Starport Reactor	  
+  72	  6:35	  Factory Reactor, Command Center	  
+  72	  6:44	  Combat Shield	  
+  74	  6:50	  Refinery	  
+  74	  6:51	  Marauder x2	  
+  82	  7:03	  Barracks x2	  
+  82	  7:09	  Medivac x2	  
+  88	  7:21	  Marauder x2	  
+  94	  7:35	  Widow Mine x2	  
+  98	  7:43	  Marauder x2, Medivac x2	  
+  110	  7:52	  Barracks Reactor, Barracks Tech Lab	  
+  110	  8:04	  Marauder x2	  
+  113	  8:08	  Widow Mine x2	  
+  117	  8:19	  Terran Infantry Armor Level 1	  
+  119	  8:20	  Medivac	  
+  119	  8:26	  Missile Turret	  
+  119	  8:29	  Orbital Command	  
+  120	  8:35	  Sensor Tower	  
+  120	  8:36	  Marauder x2	  
+  128	  8:50	  Missile Turret	  
+  128	  8:53	  Bunker	  
+  133	  9:02	  Medivac	  
+  133	  9:09	  Refinery x2	  
+  135	  9:14	  Concussive Shells	  
+  135	  9:16	  Medivac	  
+  143	  9:26	  Widow Mine x2	  
+  147	  9:33	  Command Center	  
+  151	  9:44	  Armory	  
+  156	  9:46	  Engineering Bay	  
+  156	  9:50	  Missile Turret	  
+  156	  9:51	  Viking x2	  
+  162	  10:00	  Starport	  
+  162	  10:01	  Ghost Academy	  
+  162	  10:10	  Missile Turret	  
+  163	  10:32	  Ghost x3, Barracks x3	  
+  166	  10:45	  Terran Infantry Weapons Level 2, Terran Infantry Armor Level 2	  
+  166	  10:46	  Terran Ship Weapons Level 1	  
+  166	  10:47	  Viking x2	  
+  173	  11:05	  Missile Turret x2	  
+  173	  11:07	  Sensor Tower	  
+  173	  11:09	  Ghost x3	  
+  192	  11:19	  Planetary Fortress	  
+  187	  11:30	  Barracks Tech Lab x2	  
+  190	  11:43	  Missile Turret x2	  
+  190	  11:48	  Liberator x2	  
+  190	  11:50	  Medivac, Missile Turret	  
+  198	  11:57	  Fusion Core	  
+  198	  11:58	  Refinery x2	  
+  200	  12:07	  Missile Turret	  
+  186	  12:39	  Barracks Tech Lab	  
+  186	  12:41	  Command Center x3	  
+  186	  12:42	  Caduceus Reactor	  
+  186	  12:44	  Terran Ship Weapons Level 2	  
+  186	  12:50	  Liberator x2	  
+  180	  13:00	  Ghost x3	  
+  189	  13:06	  Command Center x2	  
+  196	  13:19	  Terran Infantry Weapons Level 3	  
+  196	  13:22	  Terran Infantry Armor Level 3	  
+  196	  13:33	  Sensor Tower	  
+  196	  13:39	  Advanced Ballistics	  
+  196	  13:40	  Starport	  
+  197	  14:00	  Command Center	  
+  197	  14:05	  Orbital Command x2	  
+  197	  14:16	  Personal Cloaking	  
+  197	  14:19	  Orbital Command x2	  
+  197	  14:23	  Command Center	  
+  185	  14:33	  Ghost	  
+  181	  14:53	  Refinery x2	  

@@ -1,0 +1,125 @@
+  10	  0:27	  Supply Depot	  
+  13	  0:54	  Barracks	  
+  13	  1:01	  Refinery	  
+  16	  1:41	  Orbital Command	  
+  16	  1:44	  Reaper	  
+  18	  2:11	  Command Center	  
+  18	  2:16	  Reaper	  
+  20	  2:23	  Supply Depot	  
+  21	  2:38	  Factory	  
+  21	  2:45	  Refinery
+  22	  2:57	  Barracks Reactor	  
+  24	  3:23	  Starport, Orbital Command	  
+  26	  3:37	  Hellion x2	  
+  26	  3:40	  Orbital Command	  
+  30	  3:42	  Supply Depot	  
+  30	  3:43	  Barracks Tech Lab	  
+  31	  3:58	  Hellion x2	  
+  36	  4:09	  Raven	  
+  40	  4:14	  Supply Depot	  
+  40	  4:18	  , Refinery	  
+  40	  4:21	  Hellion x2	  
+  46	  4:25	  Barracks Tech Lab	  
+  47	  4:33	  Interference Matrix	  
+  48	  4:43	  Supply Depot, Raven	  
+  51	  4:50	  Marine x2	  
+  51	  4:52	  Cyclone	  
+  57	  4:59	  Supply Depot	  
+  60	  5:08	  Marine x2	  
+  58	  5:19	  Raven	  
+  62	  5:26	  Marine x2	  
+  62	  5:29	  , Siege Tank	  
+  67	  5:41	  , Command Center	  
+  67	  5:42	  Supply Depot	  
+  71	  6:00	  Viking x2	  
+  71	  6:01	  Marine	  
+  71	  6:02	  Refinery	  
+  71	  6:04	  Siege Tank	  
+  79	  6:06	  Supply Depot,	  
+  81	  6:13	  Supply Depot	  
+  81	  6:14	  Stimpack	  
+  82	  6:27	  Marine,	  
+  82	  6:30	  Viking x2	  
+  89	  6:40	  Barracks x2, Siege Tank	  
+  94	  6:47	  Engineering Bay x2	  
+  94	  6:56	  Marine	  
+  103	  7:08	  Liberator x2	  
+  106	  7:18	  Marine,	  
+  105	  7:26	  , Barracks x2	  
+  81	  7:31	  Barracks Reactor x2	  
+  81	  7:33	  Orbital Command	  
+  81	  7:34	  Terran Infantry Weapons Level 1	  
+  80	  7:37	  Terran Infantry Armor Level 1	  
+  80	  7:39	  Marine	  
+  80	  7:43	  Siege Tank	  
+  86	  7:47	  Refinery x2	  
+  86	  7:48	  Supply Depot	  
+  87	  7:51	  Viking	  
+  91	  8:01	  Viking, Marine	  
+  91	  8:04	  Supply Depot x2	  
+  95	  8:08	  Missile Turret x2	  
+  95	  8:11	  Combat Shield	  
+  97	  8:13	  Barracks Reactor x2	  
+  97	  8:15	  , Sensor Tower	  
+  97	  8:18	  Supply Depot	  
+  99	  8:21	  Marine x5	  
+  106	  8:29	  Supply Depot	  
+  106	  8:30	  Siege Tank	  
+  110	  8:36	  Medivac x2	  
+  110	  8:38	  Marine	  
+  117	  8:44	  Marine x4	  
+  118	  8:55	  Marine x5, Armory	  
+  118	  8:59	  Supply Depot	  
+  118	  9:02	  Marine x4	  
+  124	  9:05	  Siege Tank	  
+  124	  9:08	  Medivac x2	  
+  124	  9:09	  Factory	  
+  134	  9:13	  Supply Depot, Marine x5	  
+  139	  9:20	  Marine x4	  
+  143	  9:26	  Command Center	  
+  143	  9:31	  Marine x5	  
+  143	  9:33	  Supply Depot x2	  
+  143	  9:38	  Marine x4	  
+  150	  9:44	  Siege Tank	  
+  138	  9:49	  Marine x5	  
+  114	  9:55	  Marine x4	  
+  100	  10:07	  Marine x5	  
+  91	  10:13	  Marine x3	  
+  101	  10:16	  Siege Tank	  
+  100	  10:22	  Terran Infantry Armor Level 2, Terran Infantry Weapons Level 2	  
+  100	  10:24	  Marine x5	  
+  100	  10:26	  Medivac x2	  
+  109	  10:31	  Marine x3	  
+  109	  10:32	  Terran Vehicle Weapons Level 1	  
+  109	  10:33	  Barracks Reactor	  
+  109	  10:35	  Siege Tank	  
+  117	  10:42	  Marine x5	  
+  119	  10:48	  Siege Tank	  
+  119	  10:49	  Marine x3	  
+  131	  11:00	  Medivac x2, Marine x5	  
+  131	  11:04	  Refinery	  
+  140	  11:07	  Marine x3, Siege Tank	  
+  146	  11:14	  Marine x7	  
+  149	  11:20	  Siege Tank	  
+  149	  11:25	  Marine x3	  
+  159	  11:28	  Supply Depot x3	  
+  159	  11:30	  Medivac	  
+  159	  11:32	  Marine x7	  
+  163	  11:35	  Medivac	  
+  163	  11:39	  Siege Tank	  
+  172	  11:42	  Marine x3	  
+  175	  11:50	  Marine x7	  
+  178	  11:58	  Siege Tank	  
+  178	  12:00	  Marine x3	  
+  168	  12:07	  Marine x7	  
+  166	  12:11	  Siege Tank	  
+  174	  12:18	  Marine x3	  
+  170	  12:25	  Marine x7	  
+  176	  12:30	  Siege Tank	  
+  176	  12:36	  Marine x3	  
+  183	  12:43	  Marine x3	  
+  183	  12:44	  Siege Tank	  
+  186	  12:51	  Marine x6	  
+  192	  13:02	  Siege Tank	  
+  192	  13:05	  Marine x2	  
+  200	  13:23	  Marine x6
